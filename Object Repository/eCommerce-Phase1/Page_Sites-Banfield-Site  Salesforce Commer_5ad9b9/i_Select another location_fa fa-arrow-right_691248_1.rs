@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Select another location_fa fa-arrow-right_691248_1</name>
+   <tag></tag>
+   <elementGuidId>af18a3e9-6b99-4c42-85d9-16483358d02b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontent']/div/div[3]/div[2]/div/div/div/div/div[2]/div/div[2]/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-arrow-right.wide-enter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-arrow-right wide-enter</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;content-top&quot;]/div[@class=&quot;enroll-page&quot;]/div[@class=&quot;enroll-map-section&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;col-lg-10 m-auto&quot;]/div[@class=&quot;row loc-bg no-gutters&quot;]/div[@class=&quot;col-md-6 loc-content col-lg-5&quot;]/div[@class=&quot;search-location wide&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;js-search-arrow input-group-append d-block&quot;]/span[@class=&quot;input-group-text&quot;]/i[@class=&quot;fa fa-arrow-right wide-enter&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontent']/div/div[3]/div[2]/div/div/div/div/div[2]/div/div[2]/span/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/i</value>
+   </webElementXpaths>
+</WebElementEntity>

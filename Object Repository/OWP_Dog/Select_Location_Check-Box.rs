@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select_Location_Check-Box</name>
+   <tag></tag>
+   <elementGuidId>b3f68155-57f3-40dc-9c83-34de856967bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@class='custom-control-input][@id='makePreferred1']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'custom-control-input' and @id = 'makePreferred1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>makePreferred1</value>
+   </webElementProperties>
+</WebElementEntity>
