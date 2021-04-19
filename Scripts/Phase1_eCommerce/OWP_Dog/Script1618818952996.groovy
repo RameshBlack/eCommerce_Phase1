@@ -32,7 +32,7 @@ WebUI.click(findTestObject('OWP_Dog/No, I am new_Button'))
 
 WebUI.verifyElementPresent(findTestObject('OWP_Dog/Title_Pet details page'), 20)
 
-WebUI.setText(findTestObject('OWP_Dog/input_concat(Your pet, , s name)_petName'), 'Test pet')
+WebUI.setText(findTestObject('OWP_Dog/input_concat(Your pet, , s name)_petName'), 'Dhruva Dog')
 
 WebUI.click(findTestObject('OWP_Dog/input_concat(Your pet, , s name)_choosepet'))
 
