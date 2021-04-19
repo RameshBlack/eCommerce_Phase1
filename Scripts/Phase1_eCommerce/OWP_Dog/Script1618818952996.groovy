@@ -52,9 +52,9 @@ WebUI.setText(findTestObject('OWP_Dog/input_Date of birth (or best guess)_birthd
 
 WebUI.click(findTestObject('OWP_Dog/Enter Color'))
 
-WebUI.setText(findTestObject('OWP_Dog/Enter Pet Weight'), '10')
+WebUI.setText(findTestObject('OWP_Dog/Enter Pet Weight'), '12')
 
-WebUI.setText(findTestObject('OWP_Dog/Enter Color'), 'White')
+WebUI.setText(findTestObject('OWP_Dog/Enter Color'), 'White and Brown')
 
 WebUI.click(findTestObject('OWP_Dog/Next button_On enter new Pet details page'))
 
